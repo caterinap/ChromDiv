@@ -1,4 +1,4 @@
-##Titulo do artigo
+##"Chromosomal diversification in tropical reef fishes relates to larval and adult traits"
 ##Martinez PA, Zurano JP, Amado TF, Penone C, Bidau CJ, Jacobina UP
 #submitted to XX
 #for information on code contact Pablo Ariel Martinez (pablo_sc82@hotmail.com) or Caterina Penone (caterina.penone@gmail.com)
