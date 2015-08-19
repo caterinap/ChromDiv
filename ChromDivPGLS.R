@@ -1,6 +1,7 @@
-##"Chromosomal diversification in tropical reef fishes relates to adult traits"
-##Martinez PA, Zurano JP, Amado TF, Betancur-R R, Penone C, Bidau CJ, Jacobina UP
-##Submitted to XX on XX/XX/XX
+##"Chromosomal diversity in tropical reef fishes is related to body size and depth range"
+##Martinez PA, Zurano JP, Amado TF, Penone C, Betancur-R R, Bidau CJ, Jacobina UP
+##please cite Martinez, P. A., et al. "Chromosomal diversity in tropical reef fishes is related to body size and depth range." 
+##Molecular phylogenetics and evolution 93 (2015): 1-4.
 ##for information on code please contact Pablo Ariel Martinez (pablo_sc82@hotmail.com) or Caterina Penone (caterina.penone@gmail.com)
 
 ##Load required packages
